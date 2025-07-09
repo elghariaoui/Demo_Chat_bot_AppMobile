@@ -3,7 +3,6 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-//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
 class ChatBotPage extends StatefulWidget {
   ChatBotPage({super.key});
 
